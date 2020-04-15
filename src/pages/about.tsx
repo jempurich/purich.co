@@ -36,27 +36,28 @@ const About: React.FC = () => (
 
           <PostFullContent className="post-full-content">
             <div className="post-content">
-              <h2 id="purich-pumiwatana"><strong>Purich Pumiwatana</strong></h2>
+              <h2>Purich Pumiwatana</h2>
               <br>
-              <h3 id="experience"><strong>Experience</strong></h3>
-              <h4 id="front-end-developer-tdcx"><strong>Front End Developer / <strong><strong>TDCX</strong></strong></strong></h4>
-              <p>September 2018 - Present, Kuala Lumpur, Malaysia<br>Tag Implementation Specialist at Google</p>
+              <h3>Experience</h3>
+              <h4>Front End Developer / TDCX</h4>
+              <p>September 2018 - Present, Kuala Lumpur, Malaysia</p>
+              <p>Tag Implementation Specialist at Google</p>
               <ul>
                 <li>Responsible for helping sales teams in the region deploy leads, implement google tags, optimize ads performance, enable integration and troubleshoot issues with more than 80% implementation rate for further ads campaigns optimization</li>
                 <li>Received excellent feedback from advertisers with 90% CSAT(customer satisfaction survey) over 500+ customers by striving to give actionable, encouraging, and helpful feedback to advertisers</li>
                 <li>Delivery implementation to grow advertiser's websites, grow advertiser's business, and grow number of google ads advertisers</li>
               </ul>
-                <h4 id="digital-director-vathanagul-group-co-ltd"><strong>Digital Director / <strong><strong>Vathanagul Group co. LTD</strong></strong></strong></h4>
+                <h4>Digital Director / Vathanagul Group co. LTD</h4>
                 <p>May 2016 - August 2018, Bangkok, Thailand</p>
                 <ul>
                   <li>Working based on digital innovation and design to fulfil marketing services</li>
                   <li>Created online marketing activities/services to increase activation, sales and usage of the product by developing website and mobile application</li>
                   <li>Grew revenue for print magazine company by creating an online magazine website and online content as solutions to their business</li>
                 </ul>
-                <h4 id="webdeveloper-kitecreations"><strong>WebDeveloper /<strong><strong>KiteCreations</strong></strong></strong></h4>
-                <p>May 2015 - July 2015, Bangkok, Thailand<br></p>
-                <h3 id="education"><strong>Education</strong></h3>
-                <h4 id="king-mongkut-s-university-of-technology-thonburi"><strong>King Mongkut's University of Technology Thonburi</strong></h4>
+                <h4>WebDeveloper KiteCreations</h4>
+                <p>May 2015 - July 2015, Bangkok, Thailand</p>
+                <h3>Education</h3>
+                <h4>King Mongkut's University of Technology Thonburi</h4>
                 <p>Bachelor of Science - BS, Applied Computer Science<br>2013 - 2016, Bangkok, Thailand</p>
             </div>
           </PostFullContent>
