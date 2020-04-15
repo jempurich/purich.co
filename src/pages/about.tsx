@@ -58,7 +58,7 @@ const About: React.FC = () => (
                 <p>May 2015 - July 2015, Bangkok, Thailand</p>
                 <h3>Education</h3>
                 <h4>King Mongkut's University of Technology Thonburi</h4>
-                <p>Bachelor of Science - BS, Applied Computer Science<br>2013 - 2016, Bangkok, Thailand</p>
+                <p>Bachelor of Science - BS, Applied Computer Science 2013 - 2016, Bangkok, Thailand</p>
             </div>
           </PostFullContent>
         </article>
