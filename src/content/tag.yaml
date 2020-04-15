@@ -1,3 +1,6 @@
-- id: speeches
+- id: Digital Marketing
+  description: บทความเกี่ยวกับวิธีการทำ Digital Marketing โดยใช้เครื่องมือต่างๆ
+  image: img/publication-cover.png
+- id: Poetry
   description: Some of the greatest words ever spoken.
-  image: img/speeches-cover.jpg
+  image: img/publication-cover.png
