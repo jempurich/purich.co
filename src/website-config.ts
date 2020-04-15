@@ -52,7 +52,7 @@ const config: WebsiteConfig = {
   title: 'Purich',
   description: 'Thoughts, stories and ideas.',
   coverImage: 'img/blog-cover.jpg',
-  logo: 'img/logo.png',
+  logo: 'img/ghost-logo.png',
   lang: 'en',
   siteUrl: 'https://purich.co',
   facebook: 'https://www.facebook.com/jempurich',
