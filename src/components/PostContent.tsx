@@ -245,12 +245,12 @@ export const PostFullContent = styled.section`
 
   h2 {
     margin: 0.5em 0 0.2em 0;
-    font-size: 3.6rem;
-    font-weight: 700;
+    font-size: 2.8rem;
+    line-height: 1.25em;
   }
   @media (max-width: 500px) {
     h2 {
-      font-size: 2.6rem;
+      font-size: 2.8rem;
     }
   }
 
