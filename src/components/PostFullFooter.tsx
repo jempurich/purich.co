@@ -7,7 +7,7 @@ const PostFullFoot = styled.footer`
   align-items: center;
   margin: 0 auto;
   padding: 3vw 0 6vw 0;
-  max-width: 840px;
+  max-width: 700px;
 `;
 
 const PostFullFooter: React.FC = props => <PostFullFoot>{props.children}</PostFullFoot>;
