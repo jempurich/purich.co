@@ -111,7 +111,7 @@ export const PostFullContent = styled.section`
   img,
   video {
     display: block;
-    margin: 0.8em auto;
+    margin: 1.5em auto;
     max-width: 100%;
     height: auto;
   }
@@ -256,7 +256,7 @@ export const PostFullContent = styled.section`
 
   h3 {
     margin: 0.5em 0 0.2em 0;
-    font-size: 2.8rem;
+    font-size: 2.4rem;
     font-weight: 700;
   }
   @media (max-width: 500px) {
