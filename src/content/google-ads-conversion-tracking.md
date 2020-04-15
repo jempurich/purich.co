@@ -4,7 +4,7 @@ title: "Conversion Tracking ของ Google Ads คืออะไร และ
 author: Purich
 tags: ["Digital Marketing"]
 image: img/conversion.png
-date: "2020-04-14T15:11:58.000Z"
+date: "2020-04-15T15:11:58.000Z"
 draft: false
 ---
 
