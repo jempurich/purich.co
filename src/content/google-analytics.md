@@ -3,7 +3,7 @@ layout: post
 title: "Google Analytics เครื่องมือเก็บวิเคราะห์และวัดผลผู้เข้าชมเว็บไซต์"
 author: jempurich
 tags: ["Digital Marketing"]
-image: img/demo4.jpg
+image: img/analytics.png
 date: "2020-04-14T15:11:55.000Z"
 draft: false
 ---

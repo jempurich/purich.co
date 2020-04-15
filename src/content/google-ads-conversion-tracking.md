@@ -3,7 +3,7 @@ layout: post
 title: "Conversion Tracking ของ Google Ads คืออะไร และใช้ทำอะไร"
 author: jempurich
 tags: ["Digital Marketing"]
-image: img/demo4.jpg
+image: img/conversion.png
 date: "2020-04-14T15:11:58.000Z"
 draft: false
 ---
