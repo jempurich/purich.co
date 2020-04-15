@@ -66,7 +66,7 @@ export const PostFullContent = styled.section`
   .post-full-comments,
   .footnotes {
     min-width: 100%;
-    font-size: 2rem;
+    font-size: 1.8rem;
     line-height: 1.6em;
   }
 
