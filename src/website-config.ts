@@ -51,10 +51,10 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'Purich',
   description: 'Thoughts, stories and ideas.',
-  coverImage: 'img/blog-cover.jpg',
+  // coverImage: 'img/blog-cover.jpg',
   logo: 'img/ghost-logo.png',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
+  siteUrl: 'https://purich.co',
   facebook: 'https://www.facebook.com/jempurich',
   twitter: 'https://twitter.com/jempurich',
   showSubscribe: false,
