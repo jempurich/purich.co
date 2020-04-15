@@ -21,18 +21,6 @@ const About: React.FC = () => (
   <IndexLayout>
     <Helmet>
       <title>About</title>
-      <meta name="title" content="About | Purich">
-      <meta name="description" content="The story about Purich. Passion, Experience and Education">
-      <meta property="og:type" content="website">
-      <meta property="og:url" content="https://purich.co/about/">
-      <meta property="og:title" content="About | Purich">
-      <meta property="og:description" content="The story about Purich. Passion, Experience and Education">
-      <meta property="og:image" content="https://purich.co/static/f55e924eff608d71da37e57b398c587d/883ab/blog-cover.jpg">
-      <meta property="twitter:card" content="summary_large_image">
-      <meta property="twitter:url" content="https://purich.co/about/">
-      <meta property="twitter:title" content="About | Purich">
-      <meta property="twitter:description" content="The story about Purich. Passion, Experience and Education">
-      <meta property="twitter:image" content="https://purich.co/static/f55e924eff608d71da37e57b398c587d/883ab/blog-cover.jpg">
     </Helmet>
     <Wrapper css={PageTemplate}>
       <header css={[outer, SiteHeader]}>
