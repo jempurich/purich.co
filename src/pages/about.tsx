@@ -36,40 +36,7 @@ const About: React.FC = () => (
 
           <PostFullContent className="post-full-content">
             <div className="post-content">
-              <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in neque.
-                Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam aliquam
-                tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at diam tempus,
-                ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam eget, consequat
-                blandit nulla. Integer volutpat velit vitae purus lacinia aliquam. Integer bibendum
-                ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla eu massa id orci
-                placerat finibus vel sit amet eros. Vestibulum quis consequat massa. Sed sagittis
-                sollicitudin massa at commodo. Praesent diam nisi, imperdiet posuere eleifend nec,
-                blandit ac massa.
-              </p>
-              <p>
-                Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem, aliquam
-                mollis sapien ultrices, dapibus congue diam. Proin viverra dapibus blandit. Ut
-                mauris tellus, tristique id felis vel, venenatis vestibulum nunc. Nam molestie
-                pulvinar nibh, eget egestas augue. Maecenas tellus arcu, mattis ut ipsum non,
-                sollicitudin convallis nunc. Donec nec neque tristique, aliquet lacus id, laoreet
-                nunc. Cras dapibus nisi nulla, ullamcorper faucibus neque suscipit ac. Donec eget
-                orci venenatis justo lobortis volutpat. Proin vel placerat nisl. Integer arcu nunc,
-                sodales eu fringilla non, aliquam non diam. Cras placerat, massa et faucibus
-                pretium, ante elit tincidunt tellus, tristique ultricies velit quam et massa.
-              </p>
-              <p>
-                In nunc lacus, dapibus vitae lacus sit amet, efficitur iaculis neque. Suspendisse ut
-                tellus quis leo vestibulum tincidunt. Aenean nec enim ac dolor lacinia semper. Ut
-                sed laoreet libero. Nunc elementum sollicitudin accumsan. Nunc eu augue neque. Proin
-                a tortor nibh. Cras eu nisl ornare sapien feugiat pellentesque. Mauris dignissim vel
-                quam eu pellentesque. Integer sit amet posuere quam, eu ullamcorper odio. Nullam a
-                lacus tempus sapien dignissim ullamcorper. In hac habitasse platea dictumst. Proin
-                quis massa aliquam, feugiat tortor sit amet, tincidunt urna. Donec posuere pulvinar
-                lectus, ac semper ipsum vulputate quis.
-              </p>
+              <h2 id="purich-pumiwatana"><strong>Purich Pumiwatana</strong></h2><p><br></p><h3 id="experience"><strong>Experience</strong></h3><h4 id="front-end-developer-tdcx"><strong>Front End Developer / <strong><strong>TDCX</strong></strong></strong></h4><p>September 2018 - Present, Kuala Lumpur, Malaysia<br>Tag Implementation Specialist at Google</p><ul><li>Responsible for helping sales teams in the region deploy leads, implement google tags, optimize ads performance, enable integration and troubleshoot issues with more than 80% implementation rate for further ads campaigns optimization</li><li>Received excellent feedback from advertisers with 90% CSAT(customer satisfaction survey) over 500+ customers by striving to give actionable, encouraging, and helpful feedback to advertisers</li><li>Delivery implementation to grow advertiser's websites, grow advertiser's business, and grow number of google ads advertisers</li></ul><h4 id="digital-director-vathanagul-group-co-ltd"><strong>Digital Director &#8203;/ <strong><strong>Vathanagul Group co. LTD</strong></strong></strong></h4><p>May 2016 - August 2018, Bangkok, Thailand</p><ul><li>Working based on digital innovation and design to fulfil marketing services</li><li>Created online marketing activities/services to increase activation, sales and usage of the product by developing website and mobile application</li><li>Grew revenue for print magazine company by creating an online magazine website and online content as solutions to their business</li></ul><h4 id="webdeveloper-kitecreations"><strong>WebDeveloper /&#8203; <strong><strong>KiteCreations</strong></strong></strong></h4><p>May 2015 - July 2015, Bangkok, Thailand<br></p><h3 id="education"><strong>Education</strong></h3><h4 id="king-mongkut-s-university-of-technology-thonburi"><strong>King Mongkut's University of Technology Thonburi</strong></h4><p>Bachelor of Science - BS, Applied Computer Science<br>2013 - 2016, Bangkok, Thailand</p>
             </div>
           </PostFullContent>
         </article>
