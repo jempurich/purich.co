@@ -62,7 +62,7 @@ const config: WebsiteConfig = {
   mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',
-  footer: '👨‍💻with ❤️❤ by jempurich',
+  footer: '👨‍💻with ❤️ by jempurich',
 };
 
 export default config;
