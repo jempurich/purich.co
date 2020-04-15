@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Ads คืออะไร ? สรุปง่ายๆ ในบทความเดียว"
-author: jempurich
+author: Purich
 tags: ["Digital Marketing"]
 image: img/ads.png
 date: "2020-04-14T15:11:56.000Z"

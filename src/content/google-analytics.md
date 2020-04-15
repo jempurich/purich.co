@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Analytics เครื่องมือเก็บวิเคราะห์และวัดผลผู้เข้าชมเว็บไซต์"
-author: jempurich
+author: Purich
 tags: ["Digital Marketing"]
 image: img/analytics.png
 date: "2020-04-14T15:11:55.000Z"

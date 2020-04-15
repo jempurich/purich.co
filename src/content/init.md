@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "init"
-author: jempurich
+author: Purich
 tags: ["Poetry"]
 image: img/OI000146.jpg
 date: "2018-05-06T23:46:37.121Z"

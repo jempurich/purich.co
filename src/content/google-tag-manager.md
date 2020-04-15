@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Tag Manager วิธีใช้ และการจัดการแท็กเบื้องต้น"
-author: jempurich
+author: Purich
 tags: ["Digital Marketing"]
 image: img/gtm.png
 date: "2020-04-14T15:11:55.000Z"
