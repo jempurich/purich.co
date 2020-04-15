@@ -9,6 +9,9 @@ export const PostFullContent = styled.section`
   position: relative;
   margin: 0 auto;
   padding: 70px 100px 0;
+  max-width: 900px;
+  font-size: 2rem;
+  line-height: 1.6em;
   min-height: 230px;
   font-family: Georgia, serif;
   font-size: 2.2rem;

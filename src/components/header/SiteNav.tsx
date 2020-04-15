@@ -4,7 +4,10 @@ import * as React from 'react';
 import styled from '@emotion/styled';
 import { css } from '@emotion/core';
 
+import { SocialLink } from '../../styles/shared';
 import config from '../../website-config';
+import Facebook from '../icons/facebook';
+import Twitter from '../icons/twitter';
 import SubscribeModal from '../subscribe/SubscribeOverlay';
 import SiteNavLogo from './SiteNavLogo';
 
@@ -141,6 +144,20 @@ class SiteNav extends React.Component<SiteNavProps> {
             </li>
           </ul>
         </SiteNavLeft>
+        <SiteNavRight>
+          <SocialLinks>
+            {config.facebook && (
+              <a
+                css={SocialLink}
+                href={config.facebook}
+                target="_blank"
+                title="Facebook"
+                rel="noopener noreferrer"
+              >
+                <Facebook />
+              </a>
+            )}
+          </SocialLinks>
           {config.showSubscribe && (
             <SubscribeButton onClick={this.openModal}>Subscribe</SubscribeButton>
           )}
