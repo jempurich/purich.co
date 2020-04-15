@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ทำการตลาดผ่าน LINE Official Account"
-author: jempurich
+author: Purich
 tags: ["Digital Marketing"]
 image: img/line.png
 date: "2020-04-14T23:46:37.121Z"
