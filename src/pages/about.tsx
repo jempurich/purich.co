@@ -37,7 +37,7 @@ const About: React.FC = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <h2>Purich Pumiwatana</h2>
-              <br>
+              <br/>
               <h3>Experience</h3>
               <h4>Front End Developer / TDCX</h4>
               <p>September 2018 - Present, Kuala Lumpur, Malaysia</p>
