@@ -51,6 +51,7 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'Purich',
   description: 'Thoughts, stories and ideas.',
+  coverImage: 'img/blog-cover.jpg',
   logo: 'img/logo.png',
   lang: 'en',
   siteUrl: 'https://purich.co',
